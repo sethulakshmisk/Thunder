@@ -22,7 +22,7 @@
 #include <gtest/gtest.h>
 #include <core/core.h>
 
-namespace WPEFramework {
+namespace Thunder {
 namespace Tests {
 
     class Response {
@@ -817,4 +817,4 @@ namespace Tests {
         }
     }
 } // Tests
-} // WPEFramework
+} // Thunder

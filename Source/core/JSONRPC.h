@@ -27,7 +27,7 @@
 #include <functional>
 #include <vector>
 
-namespace WPEFramework {
+namespace Thunder {
 
 namespace Core {
 
@@ -1490,4 +1490,4 @@ namespace Core {
         using Error = Message::Info;
     }
 }
-} // namespace WPEFramework::Core::JSONRPC
+} // namespace Thunder::Core::JSONRPC

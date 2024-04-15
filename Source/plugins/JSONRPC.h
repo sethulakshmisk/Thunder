@@ -25,7 +25,7 @@
 #include "IPlugin.h"
 #include "IDispatcher.h"
 
-namespace WPEFramework {
+namespace Thunder {
 
 namespace PluginHost {
 
@@ -1007,5 +1007,5 @@ namespace PluginHost {
         StatusCallbackMap _observers;
     };
 
-} // namespace WPEFramework::PluginHost
+} // namespace Thunder::PluginHost
 }
